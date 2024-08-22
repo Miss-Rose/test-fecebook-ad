@@ -1,5 +1,5 @@
 {
-  "name": "pixi1",
+  "name": "facebook-ad",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -21,10 +21,5 @@
   },
   "dependencies": {
     "pixi.js": "^8.3.3"
-  },
-  "overrides": {
-    "vite": {
-      "rollup": "npm:@rollup/wasm-node"
-    }
   }
 }
